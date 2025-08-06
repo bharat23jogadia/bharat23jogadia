@@ -13,3 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love designing scalable scripts that turn chaos into clarity!
 -->
 
+### 📌 Pinned Projects
+
+Here are some of the highlights:
+
+#### 📶 Bandwidth Path Aggregator
+> Combines multiple network paths, checks cable consistency, adds bandwidth dynamically.  
+> 🔗 [View Project]((https://github.com/users/bharat23jogadia/projects/3))
