@@ -6,7 +6,7 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on: **Network Visualization & Bandwidth Automation Tool**
 - 🌱 I’m currently learning: Python, Network Graphs, Automation, Neo4j, Cypher queries
 - 👯 I’m looking to collaborate on: OSS Provisioning Automation in Telecom, Carrier Ethernet
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with AI Agent creation for combined output of these scripts.
 - 💬 Ask me about: SDH, Carrier Ethernet, OSS Solutions, OSS Automations for provisioning services. OSS Device and Service Modelling.
 - 📫 How to reach me: (mailto:bharat23jogadia@gmail.com)
 - 😄 Pronouns: He
